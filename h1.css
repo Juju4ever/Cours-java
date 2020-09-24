@@ -1,0 +1,16 @@
+h1,h2
+{
+	color: red;
+	background-color: blue;
+}
+h6
+{
+	color: rgb (1,1,1);
+	size: 10px;
+}
+p
+{
+	display: flex;
+	background-color: yellow;
+	justify-content: center;
+}
